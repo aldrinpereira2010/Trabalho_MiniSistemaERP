@@ -1,6 +1,4 @@
-# Trabalho_MiniSistemaERP
-
-# Sistema de Controle de Estoque em Python
+# Trabalho Mini Sistema ERP de Controle de Estoque em Python
 
 ## Descrição
 Este projeto implementa um sistema básico de controle de estoque em Python. Ele permite cadastrar produtos, registrar entradas e saídas de estoque, gerar relatórios gerenciais e criar dashboards gráficos para análise visual dos dados. O sistema foi concebido para uso em ambientes que necessitam de monitoramento simples e eficiente de inventário.
